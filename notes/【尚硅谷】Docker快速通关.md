@@ -1,6 +1,14 @@
 > 在线视频：[尚硅谷3小时速通Docker教程，雷神带练docker部署到实战！](https://www.bilibili.com/video/BV1Zn4y1X7AZ)
+> 
 > 课程资料: [尚硅谷2024新版3小时速通Docker教程](https://pan.baidu.com/s/1jdN7HjjO6JDNOSGgd3r8pA?pwd=yyds )
-> 雷神笔记：[**Docker - 快速通关 （3h）**](https://www.yuque.com/leifengyang/sutong/au0lv3sv3eldsmn8)
+> 
+> 雷神笔记：[Docker - 快速通关 （3h）](https://www.yuque.com/leifengyang/sutong/au0lv3sv3eldsmn8)
+>
+> 代码仓库
+> 
+> Gitee: https://gitee.com/an_shiguang/learn-docker
+> 
+> GitHub: https://github.com/Shiguang-coding/learn-docker
 
 # Docker介绍
 
@@ -9,11 +17,6 @@
 Docker 是一个开源的容器化平台，它允许开发者将应用程序及其依赖项打包到一个轻量级的、可移植的容器中。
 
 ![image-20240918133016634](images/66ea65694d27b.png)
-
-
-
-
-
 
 
 ## Docker优势
